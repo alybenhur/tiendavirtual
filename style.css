@@ -67,3 +67,9 @@ iframe {
         height: calc(100vh - 56px); /* Ajustar altura para no tapar la barra de navegación */
     }
 }
+
+.titulo{
+    color: yellow;
+    font-size: 34px;
+    font-weight: bold;
+}
